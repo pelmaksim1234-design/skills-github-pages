@@ -1,3 +1,7 @@
 ---
-title: Welcome to my blog!
+title: Labs
 ---
+
+# Labs
+
+[Open Wild Gunman](./labs/)
