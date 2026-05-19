@@ -24,6 +24,12 @@
       font-size: 32px;
     }
 
+    nav {
+      display: grid;
+      gap: 12px;
+      justify-items: start;
+    }
+
     a {
       display: inline-block;
       padding: 12px 18px;
@@ -41,7 +47,10 @@
 <body>
   <main>
     <h1>Labs</h1>
-    <a href="./WilD%20Gunman/help-files/">Open Wild Gunman</a>
+    <nav aria-label="Labs list">
+      <a href="./WilD%20Gunman/help-files/">Open Wild Gunman</a>
+      <a href="./game/task1.html">Open Memory Pair Game</a>
+    </nav>
   </main>
 </body>
 </html>

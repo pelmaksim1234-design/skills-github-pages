@@ -4,4 +4,7 @@ title: Labs
 
 # Labs
 
-[Open Wild Gunman](./labs/)
+[Open Labs](./labs/)
+
+- [Wild Gunman](./labs/WilD%20Gunman/help-files/)
+- [Memory Pair Game](./labs/game/task1.html)
